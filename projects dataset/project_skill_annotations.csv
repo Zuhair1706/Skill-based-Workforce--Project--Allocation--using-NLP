@@ -1,0 +1,227 @@
+project_id,skill,surface_form,form_type,char_start,char_end
+P001,Python,Python,canonical,345,351
+P001,NLP,NLP,canonical,377,380
+P001,FastAPI,FastAPI,canonical,409,416
+P001,MySQL,MySQL,canonical,443,448
+P001,React,React,canonical,503,508
+P001,Docker,containerization,variant,524,540
+P001,Scikit-learn,Scikit-learn,canonical,612,624
+P001,Git,Git,canonical,668,671
+P002,SQL,SQL,canonical,374,377
+P002,Python,Python,canonical,410,416
+P002,Tableau,Tableau,canonical,452,459
+P002,ETL,ETL,canonical,475,478
+P002,GCP,GCP,canonical,557,560
+P002,Pandas,dataframes,variant,587,597
+P002,Machine Learning,ML,alias,662,664
+P003,AWS,AWS,canonical,308,311
+P003,Terraform,infrastructure as code,variant,381,403
+P003,Kubernetes,k8s,alias,427,430
+P003,Docker,containerization,variant,494,510
+P003,Linux,Linux,canonical,535,540
+P003,CI/CD,CI-CD,alias,589,594
+P003,Project Management,Project Management,canonical,646,664
+P003,Cybersecurity,information security,variant,719,739
+P004,Hadoop,Hadoop,canonical,359,365
+P004,Spark,Spark,canonical,379,384
+P004,Kafka,Apache Kafka,alias,465,477
+P004,ETL,ETL,canonical,493,496
+P004,SQL,SQL,canonical,576,579
+P004,AWS,Amazon Web Services,alias,592,611
+P004,Airflow,Airflow,canonical,663,670
+P004,Python,Python,canonical,748,754
+P005,NLP,NLP,canonical,343,346
+P005,Python,Python,canonical,371,377
+P005,BERT,BERT,canonical,458,462
+P005,FastAPI,Fast API,alias,475,483
+P005,React,React,canonical,532,537
+P005,PostgreSQL,PostgreSQL,canonical,564,574
+P005,Docker,Docker,canonical,641,647
+P006,Python,Python,canonical,316,322
+P006,Machine Learning,Machine Learning,canonical,351,367
+P006,Pandas,dataframes,variant,442,452
+P006,SQL,SQL,canonical,466,469
+P006,Scikit-learn,Scikit-learn,canonical,560,572
+P006,Power BI,Power BI,canonical,600,608
+P006,Excel,MS Excel,alias,665,673
+P007,React,ReactJS,alias,325,332
+P007,Node.js,Node.js,canonical,357,364
+P007,TypeScript,TypeScript,canonical,408,418
+P007,AWS,Amazon Web Services,alias,467,486
+P007,MySQL,MySQL,canonical,535,540
+P007,Docker,Docker,canonical,589,595
+P007,Testing,Testing,canonical,647,654
+P007,Agile,iterative delivery,variant,734,752
+P008,Cybersecurity,information security,variant,332,352
+P008,Linux,Linux,canonical,389,394
+P008,Python,Python,canonical,439,445
+P008,Kafka,Apache Kafka,alias,488,500
+P008,Spark,Spark,canonical,536,541
+P008,Machine Learning,predictive modeling,variant,557,576
+P008,Docker,containerization,variant,653,669
+P008,Git,Git,canonical,680,683
+P009,Python,Python,canonical,336,342
+P009,SQL,SQL,canonical,419,422
+P009,Power BI,Power BI,canonical,435,443
+P009,Machine Learning,predictive modeling,variant,482,501
+P009,PostgreSQL,PostgreSQL,canonical,544,554
+P009,Azure,Azure,canonical,578,583
+P009,Business Analysis,requirements analysis,variant,635,656
+P010,Python,Python,canonical,324,330
+P010,Data Science,Data Science,canonical,375,387
+P010,SQL,relational querying,variant,400,419
+P010,Pandas,Pandas,canonical,483,489
+P010,Tableau,Tableau,canonical,514,521
+P010,Machine Learning,Machine Learning,canonical,537,553
+P010,Project Management,Project Management,canonical,608,626
+P010,Excel,MS Excel,alias,660,668
+P011,Java,Java,canonical,328,332
+P011,Spring Boot,Spring Boot,canonical,361,372
+P011,Cybersecurity,cyber security,alias,426,440
+P011,PostgreSQL,Postgres,alias,454,462
+P011,Kafka,Kafka,canonical,498,503
+P011,Kubernetes,Kubernetes,canonical,516,526
+P011,Testing,Testing,canonical,575,582
+P011,CI/CD,CI/CD,canonical,609,614
+P012,Business Analysis,requirements analysis,variant,323,344
+P012,Project Management,Project Management,canonical,390,408
+P012,Agile,Agile,canonical,424,429
+P012,SQL,relational querying,variant,520,539
+P012,Scrum,Scrum,canonical,575,580
+P012,Excel,Excel,canonical,596,601
+P012,UI/UX,UI/UX,canonical,666,671
+P013,Python,Python,canonical,338,344
+P013,Machine Learning,Machine Learning,canonical,369,385
+P013,Deep Learning,neural networks,variant,429,444
+P013,TensorFlow,TensorFlow,canonical,508,518
+P013,Kafka,Kafka,canonical,550,555
+P013,Docker,Docker,canonical,591,597
+P013,Linux,Unix administration,variant,613,632
+P013,Azure,Microsoft Azure,alias,692,707
+P014,NLP,NLP,canonical,331,334
+P014,BERT,BERT,canonical,360,364
+P014,PyTorch,PyTorch,canonical,402,409
+P014,Python,Python,canonical,439,445
+P014,RoBERTa,RoBERTa,canonical,476,483
+P014,FastAPI,Fast-API,variant,544,552
+P014,Deep Learning,Deep Learning,canonical,565,578
+P014,Docker,Docker,canonical,617,623
+P015,CI/CD,CI/CD,canonical,306,311
+P015,Terraform,Terraform,canonical,349,358
+P015,Docker,Docker,canonical,376,382
+P015,Kubernetes,k8s,alias,425,428
+P015,Linux,Linux,canonical,450,455
+P015,AWS,AWS,canonical,480,483
+P015,Git,Git,canonical,549,552
+P015,Python,Python,canonical,633,639
+P016,Python,Python,canonical,301,307
+P016,Machine Learning,Machine Learning,canonical,332,348
+P016,Spark,Spark,canonical,392,397
+P016,Scikit-learn,Scikit-learn,canonical,424,436
+P016,SQL,relational querying,variant,479,498
+P016,Airflow,Airflow,canonical,534,541
+P016,AWS,AWS,canonical,557,560
+P016,Deep Learning,Deep Learning,canonical,620,633
+P017,Power BI,Power BI,canonical,314,322
+P017,SQL,SQL,canonical,352,355
+P017,Python,Python,canonical,386,392
+P017,ETL,ETL,canonical,442,445
+P017,Tableau,Tableau,canonical,488,495
+P017,React,React,canonical,519,524
+P017,Business Analysis,requirements analysis,variant,576,597
+P018,Machine Learning,ML,alias,307,309
+P018,Python,Python,canonical,334,340
+P018,Spark,Spark,canonical,385,390
+P018,Kafka,Apache Kafka,alias,439,451
+P018,Scikit-learn,sklearn,alias,503,510
+P018,SQL,SQL,canonical,565,568
+P018,Deep Learning,neural networks,variant,620,635
+P018,Cybersecurity,Cybersecurity,canonical,701,714
+P019,JavaScript,JS,alias,318,320
+P019,React,React,canonical,397,402
+P019,TypeScript,TS,alias,415,417
+P019,UI/UX,UI/UX,canonical,481,486
+P019,Figma,Figma,canonical,541,546
+P019,Node.js,Node,alias,559,563
+P019,Testing,Testing,canonical,602,609
+P020,Power BI,Power BI,canonical,322,330
+P020,SQL,relational querying,variant,380,399
+P020,Tableau,Tableau,canonical,455,462
+P020,ETL,ETL,canonical,490,493
+P020,Excel,Excel,canonical,518,523
+P020,Azure,Azure,canonical,548,553
+P020,Business Analysis,Business Analysis,canonical,569,586
+P021,Java,Java,canonical,332,336
+P021,Spring Boot,Spring Boot,canonical,350,361
+P021,Docker,Docker,canonical,438,444
+P021,Testing,Testing,canonical,460,467
+P021,FastAPI,FastAPI,canonical,510,517
+P021,Kubernetes,Kubernetes,canonical,566,576
+P021,MySQL,MySQL,canonical,628,633
+P021,Git,GitHub,variant,709,715
+P022,SQL,SQL,canonical,307,310
+P022,Business Analysis,Business Analysis,canonical,353,370
+P022,ETL,ETL,canonical,417,420
+P022,Azure,Microsoft Azure,alias,479,494
+P022,Project Management,Project Management,canonical,508,526
+P022,Cybersecurity,Cybersecurity,canonical,581,594
+P022,Excel,Excel,canonical,635,640
+P023,Deep Learning,Deep Learning,canonical,327,340
+P023,PyTorch,Pytorch,variant,355,362
+P023,Python,Python,canonical,416,422
+P023,TensorFlow,Tensorflow,variant,465,475
+P023,Docker,Docker,canonical,511,517
+P023,Linux,Unix administration,variant,542,561
+P023,AWS,Amazon Web Services,alias,577,596
+P024,NLP,NLP,canonical,336,339
+P024,Python,Python,canonical,389,395
+P024,BERT,BERT,canonical,472,476
+P024,FastAPI,Fast API,alias,504,512
+P024,React,React,canonical,525,530
+P024,PostgreSQL,PostgreSQL,canonical,566,576
+P024,Docker,Docker,canonical,604,610
+P024,Azure,Microsoft Azure,alias,673,688
+P025,Java,Java,canonical,328,332
+P025,Spring Boot,SpringBoot,alias,377,387
+P025,SQL,relational querying,variant,400,419
+P025,ETL,data integration pipelines,variant,480,506
+P025,Project Management,delivery management,variant,522,541
+P025,Business Analysis,Business Analysis,canonical,590,607
+P025,Testing,test automation,alias,659,674
+P025,Agile,Agile,canonical,729,734
+P026,Python,Python,canonical,313,319
+P026,Machine Learning,Machine Learning,canonical,365,381
+P026,SQL,relational querying,variant,397,416
+P026,Tableau,Tableau,canonical,507,514
+P026,Spark,Spark,canonical,538,543
+P026,GCP,Google Cloud,alias,592,604
+P026,Pandas,Pandas,canonical,656,662
+P027,AWS,AWS,canonical,308,311
+P027,Azure,Microsoft Azure,alias,344,359
+P027,Terraform,Terraform,canonical,423,432
+P027,Python,Python,canonical,457,463
+P027,Linux,Unix administration,variant,488,507
+P027,Power BI,Power BI,canonical,535,543
+P027,Project Management,delivery management,variant,587,606
+P028,NLP,text mining,variant,305,316
+P028,Python,Python,canonical,386,392
+P028,Django,Django,canonical,441,447
+P028,PostgreSQL,Postgres,alias,499,507
+P028,React,ReactJS,alias,574,581
+P028,RoBERTa,Roberta,variant,594,601
+P028,Docker,containerization,variant,628,644
+P029,Testing,Testing,canonical,322,329
+P029,CI/CD,CI/CD,canonical,383,388
+P029,Python,Python,canonical,430,436
+P029,Agile,iterative delivery,variant,461,479
+P029,Git,GitHub,variant,528,534
+P029,Scrum,Scrum,canonical,583,588
+P029,Docker,Docker,canonical,640,646
+P029,Linux,Unix administration,variant,711,730
+P030,NLP,NLP,canonical,309,312
+P030,Python,Python,canonical,330,336
+P030,BERT,BERT,canonical,399,403
+P030,Node.js,Node,alias,425,429
+P030,React,React.js,alias,491,499
+P030,Docker,Docker,canonical,512,518
+P030,Azure,Microsoft Azure,alias,570,585

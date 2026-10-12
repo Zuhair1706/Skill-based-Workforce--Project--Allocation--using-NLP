@@ -1,0 +1,76 @@
+skill,alias
+AWS,AWS
+Agile,Agile
+Airflow,Airflow
+Azure,Azure
+BERT,BERT
+Business Analysis,Business Analysis
+CI/CD,CI/CD
+Cybersecurity,Cybersecurity
+Data Science,Data Science
+Deep Learning,Deep Learning
+Django,Django
+Docker,Docker
+ETL,ETL
+Excel,Excel
+FastAPI,FastAPI
+Figma,Figma
+GCP,GCP
+Git,Git
+Hadoop,Hadoop
+Java,Java
+JavaScript,JavaScript
+Kafka,Kafka
+Kubernetes,Kubernetes
+Linux,Linux
+Machine Learning,Machine Learning
+MySQL,MySQL
+NLP,NLP
+Node.js,Node.js
+Pandas,Pandas
+PostgreSQL,PostgreSQL
+Power BI,Power BI
+Project Management,Project Management
+PyTorch,PyTorch
+Python,Python
+React,React
+RoBERTa,RoBERTa
+SQL,SQL
+Scikit-learn,Scikit-learn
+Scrum,Scrum
+Spark,Spark
+Spring Boot,Spring Boot
+Tableau,Tableau
+TensorFlow,TensorFlow
+Terraform,Terraform
+Testing,Testing
+TypeScript,TypeScript
+UI/UX,UI/UX
+AWS,Amazon Web Services
+Azure,Microsoft Azure
+GCP,Google Cloud
+GCP,Google Cloud Platform
+Kubernetes,k8s
+Scikit-learn,sklearn
+Node.js,NodeJS
+Node.js,Node
+JavaScript,JS
+TypeScript,TS
+Machine Learning,ML
+NLP,natural language processing
+PostgreSQL,Postgres
+CI/CD,CI-CD
+Power BI,PowerBI
+Spring Boot,SpringBoot
+React,ReactJS
+React,React.js
+Excel,Microsoft Excel
+Excel,MS Excel
+Spark,Apache Spark
+Spark,PySpark
+Kafka,Apache Kafka
+Airflow,Apache Airflow
+Cybersecurity,cyber security
+FastAPI,Fast API
+UI/UX,UI/UX design
+Testing,test automation

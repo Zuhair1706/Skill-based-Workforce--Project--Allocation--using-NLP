@@ -1,0 +1,227 @@
+project_id,required_skill,importance_1_5,min_proficiency_1_5,min_experience_years,min_headcount
+P001,Python,5,4,5,9
+P001,NLP,5,4,5,9
+P001,FastAPI,4,3,4,6
+P001,MySQL,4,3,3,6
+P001,React,3,3,3,5
+P001,Docker,3,3,3,5
+P001,Scikit-learn,2,2,2,1
+P001,Git,1,1,1,0
+P002,SQL,5,4,5,6
+P002,Python,4,3,4,4
+P002,Tableau,4,3,4,4
+P002,ETL,4,3,3,4
+P002,GCP,3,3,2,3
+P002,Pandas,3,3,4,3
+P002,Machine Learning,2,2,2,1
+P003,AWS,5,4,6,5
+P003,Terraform,4,3,4,4
+P003,Kubernetes,4,3,5,4
+P003,Docker,4,3,5,4
+P003,Linux,3,3,3,3
+P003,CI/CD,3,3,3,3
+P003,Project Management,3,3,4,3
+P003,Cybersecurity,2,2,2,1
+P004,Hadoop,5,4,6,9
+P004,Spark,5,4,5,9
+P004,Kafka,4,3,4,6
+P004,ETL,4,3,3,6
+P004,SQL,3,3,2,5
+P004,AWS,3,3,3,5
+P004,Airflow,3,3,4,5
+P004,Python,2,2,2,1
+P005,NLP,5,4,4,4
+P005,Python,5,4,5,4
+P005,BERT,4,3,4,3
+P005,FastAPI,3,3,3,2
+P005,React,3,3,3,2
+P005,PostgreSQL,3,3,4,2
+P005,Docker,2,2,2,1
+P006,Python,5,5,4,5
+P006,Machine Learning,5,5,5,5
+P006,Pandas,4,4,4,3
+P006,SQL,4,4,4,3
+P006,Scikit-learn,3,3,2,3
+P006,Power BI,3,3,2,3
+P006,Excel,1,1,1,0
+P007,React,5,4,5,4
+P007,Node.js,5,4,4,4
+P007,TypeScript,4,3,3,3
+P007,AWS,3,3,3,2
+P007,MySQL,3,3,3,2
+P007,Docker,3,3,2,2
+P007,Testing,3,3,3,2
+P007,Agile,2,2,2,1
+P008,Cybersecurity,5,4,5,7
+P008,Linux,5,4,6,7
+P008,Python,4,3,4,5
+P008,Kafka,3,3,3,4
+P008,Spark,3,3,3,4
+P008,Machine Learning,3,3,4,4
+P008,Docker,2,2,1,1
+P008,Git,2,2,2,1
+P009,Python,5,4,5,5
+P009,SQL,4,3,4,4
+P009,Power BI,4,3,4,4
+P009,Machine Learning,4,3,4,4
+P009,PostgreSQL,3,3,4,3
+P009,Azure,3,3,2,3
+P009,Business Analysis,3,3,3,3
+P010,Python,5,4,5,9
+P010,Data Science,4,3,5,6
+P010,SQL,4,3,4,6
+P010,Pandas,4,3,5,6
+P010,Tableau,3,3,3,5
+P010,Machine Learning,3,3,3,5
+P010,Project Management,2,2,1,1
+P010,Excel,2,2,1,1
+P011,Java,5,5,5,4
+P011,Spring Boot,5,5,6,4
+P011,Cybersecurity,4,4,5,3
+P011,PostgreSQL,4,4,4,3
+P011,Kafka,3,3,2,2
+P011,Kubernetes,3,3,4,2
+P011,Testing,3,3,4,2
+P011,CI/CD,3,3,2,2
+P012,Business Analysis,5,4,5,6
+P012,Project Management,4,3,3,4
+P012,Agile,4,3,3,4
+P012,SQL,3,3,2,3
+P012,Scrum,3,3,4,3
+P012,Excel,3,3,3,3
+P012,UI/UX,2,2,2,1
+P013,Python,5,4,5,5
+P013,Machine Learning,5,4,4,5
+P013,Deep Learning,4,3,4,3
+P013,TensorFlow,4,3,3,3
+P013,Kafka,3,3,3,3
+P013,Docker,3,3,3,3
+P013,Linux,3,3,3,3
+P013,Azure,2,2,2,1
+P014,NLP,5,5,5,9
+P014,BERT,5,5,4,9
+P014,PyTorch,5,5,4,9
+P014,Python,5,5,4,9
+P014,RoBERTa,4,4,5,6
+P014,FastAPI,3,3,2,5
+P014,Deep Learning,3,3,4,5
+P014,Docker,3,3,3,5
+P015,CI/CD,5,5,5,7
+P015,Terraform,5,5,6,7
+P015,Docker,5,5,6,7
+P015,Kubernetes,4,4,4,5
+P015,Linux,4,4,3,5
+P015,AWS,4,4,4,5
+P015,Git,3,3,3,4
+P015,Python,1,1,1,0
+P016,Python,5,4,4,8
+P016,Machine Learning,5,4,4,8
+P016,Spark,4,3,5,5
+P016,Scikit-learn,4,3,4,5
+P016,SQL,3,3,4,4
+P016,Airflow,3,3,3,4
+P016,AWS,3,3,2,4
+P016,Deep Learning,2,2,2,1
+P017,Power BI,5,5,6,4
+P017,SQL,5,5,5,4
+P017,Python,4,4,4,3
+P017,ETL,4,4,3,3
+P017,Tableau,3,3,3,2
+P017,React,3,3,4,2
+P017,Business Analysis,3,3,3,2
+P018,Machine Learning,5,4,5,4
+P018,Python,5,4,6,4
+P018,Spark,4,3,4,3
+P018,Kafka,4,3,4,3
+P018,Scikit-learn,4,3,4,3
+P018,SQL,3,3,3,2
+P018,Deep Learning,3,3,4,2
+P018,Cybersecurity,2,2,1,1
+P019,JavaScript,5,4,6,7
+P019,React,4,3,4,5
+P019,TypeScript,4,3,3,5
+P019,UI/UX,4,3,4,5
+P019,Figma,3,3,3,4
+P019,Node.js,3,3,3,4
+P019,Testing,3,3,3,4
+P020,Power BI,5,4,6,3
+P020,SQL,5,4,4,3
+P020,Tableau,4,3,5,2
+P020,ETL,4,3,3,2
+P020,Excel,3,3,4,2
+P020,Azure,3,3,3,2
+P020,Business Analysis,3,3,4,2
+P021,Java,5,4,4,9
+P021,Spring Boot,5,4,6,9
+P021,Docker,4,3,3,6
+P021,Testing,4,3,4,6
+P021,FastAPI,3,3,3,5
+P021,Kubernetes,3,3,3,5
+P021,MySQL,3,3,3,5
+P021,Git,1,1,1,0
+P022,SQL,5,5,6,8
+P022,Business Analysis,4,4,3,5
+P022,ETL,4,4,3,5
+P022,Azure,4,4,4,5
+P022,Project Management,4,4,4,5
+P022,Cybersecurity,3,3,4,4
+P022,Excel,2,2,2,1
+P023,Deep Learning,5,5,5,5
+P023,PyTorch,5,5,6,5
+P023,Python,5,5,6,5
+P023,TensorFlow,3,3,3,3
+P023,Docker,3,3,4,3
+P023,Linux,3,3,4,3
+P023,AWS,3,3,3,3
+P024,NLP,5,4,6,9
+P024,Python,5,4,4,9
+P024,BERT,4,3,5,6
+P024,FastAPI,4,3,4,6
+P024,React,3,3,3,5
+P024,PostgreSQL,3,3,2,5
+P024,Docker,3,3,2,5
+P024,Azure,2,2,2,1
+P025,Java,5,4,5,6
+P025,Spring Boot,4,3,4,4
+P025,SQL,4,3,4,4
+P025,ETL,4,3,3,4
+P025,Project Management,4,3,3,4
+P025,Business Analysis,3,3,2,3
+P025,Testing,3,3,2,3
+P025,Agile,2,2,2,1
+P026,Python,5,4,5,5
+P026,Machine Learning,4,3,4,4
+P026,SQL,4,3,4,4
+P026,Tableau,3,3,3,3
+P026,Spark,3,3,4,3
+P026,GCP,3,3,4,3
+P026,Pandas,3,3,2,3
+P027,AWS,5,4,5,7
+P027,Azure,4,3,4,5
+P027,Terraform,4,3,3,5
+P027,Python,3,3,3,4
+P027,Linux,3,3,2,4
+P027,Power BI,3,3,2,4
+P027,Project Management,2,2,2,1
+P028,NLP,5,4,5,9
+P028,Python,4,3,5,6
+P028,Django,4,3,4,6
+P028,PostgreSQL,4,3,5,6
+P028,React,3,3,4,5
+P028,RoBERTa,3,3,3,5
+P028,Docker,3,3,3,5
+P029,Testing,5,5,4,4
+P029,CI/CD,5,5,5,4
+P029,Python,4,4,3,3
+P029,Agile,4,4,4,3
+P029,Git,3,3,3,2
+P029,Scrum,3,3,3,2
+P029,Docker,3,3,3,2
+P029,Linux,1,1,1,0
+P030,NLP,5,5,5,4
+P030,Python,5,5,6,4
+P030,BERT,4,4,5,3
+P030,Node.js,4,4,4,3
+P030,React,4,4,5,3
+P030,Docker,3,3,4,2
+P030,Azure,3,3,2,2
