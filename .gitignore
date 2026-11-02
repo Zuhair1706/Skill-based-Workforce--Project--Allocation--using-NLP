@@ -1,0 +1,14 @@
+.env
+**/.env
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+**/node_modules/
+**/dist/
+coding_part/backend/workforce.db
+coding_part/backend/workforce.db-shm
+coding_part/backend/workforce.db-wal
+coding_part/backend/models/
+*.py[cod]
+.DS_Store
